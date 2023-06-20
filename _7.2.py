@@ -5,4 +5,4 @@ if len(s) > 1000:
 else:
     while "  " in s:
         s = s.replace("  ", " ")
-print(s)
+    print(s)
